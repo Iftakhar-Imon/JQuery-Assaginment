@@ -1,0 +1,80 @@
+  .crops{
+	  padding-top: 100px;
+	  font-size: 20px;
+	  background-color: #956b9e;
+	  color: #dad5d5;
+	}
+	.crops input{
+		color: black;
+	}
+	.colm{
+		padding-left: 100px;
+		border-right: 4px solid #8cb9dc;
+	}
+ .form-group{
+	   /*display: inline;*/
+	  padding-bottom: 50px;
+	}
+		.box input{
+			width: 400px;
+			border-radius: 2px;
+			/*border: 2px solid black;*/
+		}
+		.box1 input{
+			width: 200px;
+		}
+		.red{
+			/*margin-left: 20px;*/
+			color: red;
+			font-size: 15px;
+			/*border: 2px solid red;*/
+
+		}
+		.green{
+			border: 2px solid green;
+		}
+		.positive{
+			color: green;
+		}
+		.negative{
+			color: red;
+		}
+
+		/*#checkpassword{
+			margin-left: 50px;
+		}*/
+		.bell{
+			padding-top: 80px;
+		}
+		.box2{
+			text-align: center;
+			border: 2px solid black;
+			height: 100px;
+	        background-color: #b385bd;
+
+		}
+
+		.box2 i{
+			font-size: 80px;
+			text-align: center;
+			font-weight: bold;
+		}
+		.brac{
+			/*text-align: center;*/
+			padding-top: 50px;
+		}
+	.dropbox{
+		 /*text-align: center;*/
+         width: 150px;
+         height: 150px;
+         border: 2px solid black;
+         background-color: #b385bd;
+	}
+	.dropbox p{
+		text-align: center;
+	}
+
+	.btn{
+		margin-top: 40px;
+		width: 150px;
+	}
